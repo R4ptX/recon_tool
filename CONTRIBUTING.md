@@ -9,7 +9,7 @@ Thank you for considering contributing to this repository! Your help is invaluab
 - Step 3: Make a new branch (optional but recommended) <br> 
 - Step 4: Push your changes to your forked repo <br>
 - Step 5: Create a pull request <br>
-navigate to the forked repo and make a pull request.
+(navigate to the forked repo and make a pull request.)
 
 ## Need Help?
 If you encounter any issues or have questions, feel free to:
