@@ -6,10 +6,10 @@ Thank you for considering contributing to this repository! Your help is invaluab
 
 - Step 1: Fork the Repository <br>
 - Step 2: Clone Your Fork <br>
-- Step 3: Make a new branch <br> 
-(note that you don't have to make new branches for each change. Just make a seperate branch and add in all of your changes) <br>
+- Step 3: Make a new branch (optional but recommended) <br> 
 - Step 4: Push your changes to your forked repo <br>
-- Step 5: Create a pull request 
+- Step 5: Create a pull request <br>
+(navigate to the forked repo and make a pull request.)
 
 ## Need Help?
 If you encounter any issues or have questions, feel free to:
